@@ -20,4 +20,3 @@ function findNeedle(haystack) {
 }
 
 findNeedle(haystack_1)
-
