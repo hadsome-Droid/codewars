@@ -14,6 +14,7 @@
 //* Результат: "Pls go away and stop eating my sheep"
 
 function warnTheSheep(queue) {
+   
    let positionWolf = [...queue].reverse().indexOf('wolf')
 
    if (positionWolf === 0) return "Pls go away and stop eating my sheep"
